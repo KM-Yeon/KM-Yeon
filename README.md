@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=f4bbbb&height=300&section=header&text=Yoo+YeonJae&fontSize=90)
 
 <img alt="mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
 ## :hatched_chick: **Tech Stack** :hatched_chick:
 
 Techs that I've used at least once
